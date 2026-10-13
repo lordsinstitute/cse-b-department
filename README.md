@@ -158,8 +158,6 @@ These achievements demonstrate the importance of practical learning, teamwork, e
 
 For additional achievements and official announcements, visit the [CSE Department Website](https://www.lords.ac.in/cse/).
 
-*Achievement details should be reviewed periodically and updated using official announcements.*
-
 ---
 
 ## Learning & Technical Resources 📚
@@ -258,7 +256,7 @@ This section can be used to share:
 - Internship, mentorship, and open-source opportunities
 - Faculty and student achievements
 
-**Upcoming activities:** Add approved events and relevant registration links here.
+**Upcoming activities:** 
 
 ---
 
