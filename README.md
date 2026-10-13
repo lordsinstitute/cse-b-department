@@ -2,7 +2,11 @@
 # Lords Institute of Engineering & Technology — Computer Science & Engineering
 
 <p align="center">
-  <img src="IMG" alt="LIET Computer Science and Engineering Department Banner" width="100%" />
+  <img
+    src="asset/Untitled design (3).png"
+    alt="Department of Computer Science and Engineering, Lords Institute of Engineering & Technology"
+    width="100%"
+  />
 </p>
 
 <p align="center">
